@@ -1,8 +1,6 @@
 # 👋 Selam, Ben Yazi Dev!
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/452572594894536705?borderRadius=10px&idleMessage=Kodlarla meşgul..." alt="Discord Status" />
-</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/452572594894536705)](https://discord.com/users/452572594894536705)
 
 ---
 
@@ -28,9 +26,7 @@
 
 ## 📂 Öne Çıkan Projelerim
 
-* **[Ramazan Vakitleri Botu](https://github.com/yazi-dev/ramazan-vakit-telegram-bot):** Dünya geneli vakit desteği sunan gelişmiş bir Telegram botu.
-* **Glory Craft:** Aktif olarak yönettiğim ve geliştirdiğim Minecraft sunucu projesi.
-* **3D Ev Modelleme:** Blender üzerinde detaylı iç ve dış mimari çalışmalar.
+* **[Ramazan Vakitleri Botu](https://github.com/yazi-dev/ramazan-vakit-telegram-bot):** Dünya geneli vakit desteği sunan gelişmiş bir Telegram botu.          
 
 ---
 
