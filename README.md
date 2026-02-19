@@ -1,4 +1,4 @@
-# 👋 Selam, Ben Yazi Dev!
+# 👋 Selam, Ben Yazi!
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/452572594894536705)](https://discord.com/users/452572594894536705)
 
@@ -8,6 +8,7 @@
 
 * 🎨 **Tasarım:** Blender ile 3D modelleme yapıyor, ev projeleri ve mimari detaylar üzerinde çalışıyorum.
 * 🤖 **Geliştirme:** Web projeleri ve işlevsel Discord botları geliştiriyorum.
+* Her Şeyden biraz bir şeyin her şeyini 😌
 
 ---
 
@@ -33,7 +34,6 @@
 ## 📬 Bana Ulaşın
 
 * 🌐 **Web:** [yazis.cloud](https://yazis.cloud)
-* 📩 **Mail** 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yazi-dev&color=blue&style=flat-square&label=Profil+Görüntüleme" alt="Views" />
