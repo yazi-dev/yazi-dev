@@ -56,12 +56,8 @@ Dünya genelinde namaz vakitleri, otomatik iftar/sahur bildirimleri ve SQLite ta
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yazi-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&rank_icon=github&locale=tr" alt="Yazi's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazi-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6&locale=tr" alt="Yazi's most used languages" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yazi-dev&theme=tokyo-night&hide_border=true&radius=12&area=true" width="96%" alt="Yazi's contribution graph" />
+<img height="170" src="https://ghstats.dev/api/card?username=yazi-dev&theme=gruvbox&border_radius=12&size=compact" alt="Yazi's GitHub statistics" />
+<img height="170" src="https://ghstats.dev/api/langs?username=yazi-dev&theme=gruvbox" alt="Yazi's most used languages" />
 
 </div>
 
@@ -74,7 +70,7 @@ Yeni fikirler, açık kaynak projeleri ve iş birlikleri için bana ulaşabilirs
 <a href="https://yazis.cloud"><img src="https://img.shields.io/badge/Website-yazis.cloud-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="yazis.cloud" /></a>
 <a href="https://github.com/yazi-dev"><img src="https://img.shields.io/badge/GitHub-yazi--dev-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
 
-<br /><br />
+<br />
 <sub><a href="https://github.com/yazi-dev?tab=followers"><img src="https://komarev.com/ghpvc/?username=yazi-dev&color=orange&style=&label=   👀  " alt="GitHub Ghosts" /></a></sub>
 
 </div>
