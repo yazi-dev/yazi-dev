@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=Yazi&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%203D%20Enthusiast&descAlignY=57&animation=fadeIn" width="100%" alt="Yazi profile banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=680&lines=Fikirleri+ger%C3%A7ek+%C3%BCr%C3%BCnlere+d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum.;Botlar%2C+web+projeleri+ve+yerel+AI+ara%C3%A7lar%C4%B1.;Kod%2C+tasar%C4%B1m+ve+biraz+da+merak." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=680&lines=Fikirleri+ger%C3%A7ek+%C3%BCr%C3%BCnlere+d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum.;Botlar%2C+web+projeleri+ve+AI+ara%C3%A7lar%C4%B1.;Kod%2C+tasar%C4%B1m+ve+biraz+da+merak." alt="Typing animation" />
 </a>
 
 <br />
@@ -16,7 +16,7 @@
 
 ## Selam, ben Yazi 👋
 
- Yazılım, otomasyon ve 3D tasarımla ilgilenen bağımsız bir geliştiriciyim. Günlük bir ihtiyacı fark edip onu çalışan, sade ve kullanışlı bir ürüne dönüştürmeyi seviyorum.
+Yazılım, otomasyon ve 3D tasarımla ilgilenen bağımsız bir geliştiriciyim. Günlük bir ihtiyacı fark edip onu çalışan, sade ve kullanışlı bir ürüne dönüştürmeyi seviyorum.
 
 - 🔭 Şu sıralar **yerel yapay zekâ araçları** ve **otomasyon projeleri** geliştiriyorum.
 - 🌙 Node.js ile botlar, Python ile masaüstü araçları üretiyorum.
@@ -69,9 +69,6 @@ Yeni fikirler, açık kaynak projeleri ve iş birlikleri için bana ulaşabilirs
 
 <a href="https://yazis.cloud"><img src="https://img.shields.io/badge/Website-yazis.cloud-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="yazis.cloud" /></a>
 <a href="https://github.com/yazi-dev"><img src="https://img.shields.io/badge/GitHub-yazi--dev-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-
-<br />
-<sub><a href="https://github.com/yazi-dev?tab=followers"><img src="https://komarev.com/ghpvc/?username=yazi-dev&color=orange&style=&label=   👀  " alt="GitHub Ghosts" /></a></sub>
 
 </div>
 
